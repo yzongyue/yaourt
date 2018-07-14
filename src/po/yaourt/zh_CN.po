@@ -348,7 +348,7 @@ msgstr "如果想要恢复这个备份，请输入 \"yes\""
 
 #: ../../lib/alpm_backup.sh:56
 msgid "yes"
-msgstr "是"
+msgstr "yes"
 
 #: ../../lib/alpm_backup.sh:57
 msgid "Deleting pacman DB"
